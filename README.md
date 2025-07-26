@@ -19,17 +19,16 @@ A responsive **Spotify Clone** built using **HTML, CSS, and JavaScript**, mimick
 
 ## 📸 Screenshots
 
-| Desktop View | Mobile View |
-|--------------|-------------|
-| ![Desktop](./screenshots/desktop.png) | ![Mobile](./screenshots/mobile.png) |
+| Desktop View
+|-------------|
+| ![Desktop](./screenshots/desktop.png) 
 
-> _Note: Replace the screenshot paths with actual images if available._
 
 ## 📂 Project Structure
 
 spotify-clone/
-├── index.html
-├── style.css
+-├── index.html
+-├── style.css
 ├── script.js
 └── assets/
 ├── images/
@@ -41,5 +40,12 @@ spotify-clone/
 1. Clone the repository:
    ```bash
    git clone https://github.com/Chakri2759/Spotify-clone.git
-cd Spotify-clone
+2. Navigate to the project folder:
+    ```bash
+   cd Spotify-clone
+
+3. Open index.html in your browser:
+  
+   
+    
 
