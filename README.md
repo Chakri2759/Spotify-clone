@@ -26,13 +26,16 @@ A responsive **Spotify Clone** built using **HTML, CSS, and JavaScript**, mimick
 
 ## 📂 Project Structure
 
+```
 spotify-clone/
--├── index.html
--├── style.css
+├── index.html
+├── style.css
 ├── script.js
 └── assets/
-├── images/
-└── music/
+    ├── images/
+    └── music/
+```
+/
 
 
 ## 🔧 How to Run Locally
